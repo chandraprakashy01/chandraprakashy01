@@ -14,7 +14,7 @@
 
 - 🎓 Final-year **B.Tech in Information Technology** student at **AKTU** (SRIMT, Lucknow) 
 - 💻 Java Developer skilled in **Core Java, Spring Boot, and databases**; I build REST APIs and full-stack applications using microservices
-- 🧠 Practical experience in **Generative AI and Agentic AI**, including the Claude API
+- 🧠 Practical experience in **Generative AI and Agentic AI**
 - 🌱 Currently strengthening my **Data Structures & Algorithms** and system design fundamentals
 - 💼 Freelance Java backend & frontend developer on **Fiverr**
 - 🎯 Actively looking for **Java Full Stack Developer internship** opportunities with PPO potential
@@ -55,7 +55,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **AI & Emerging Tech**
-![Claude API](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 Generative AI • Agentic AI • Prompt Engineering
 
 ---
