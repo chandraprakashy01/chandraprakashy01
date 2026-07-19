@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=Photo" width="150" height="150" style="border-radius:50%;" alt="Chandra Prakash"/>
-</p>
 
-<h1 align="center">Hi 👋, I'm Chandra Prakash</h1>
+<h1 align="center">Hi , I'm Chandra Prakash</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot • React.js • REST APIs | Exploring Agentic AI</h3>
 
 <p align="center">
-  <a href="https://v0-chandraprakash-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square"/></a>
+  <a href="https://portfolio-chandraprakash.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square"/></a>
   <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square"/>
 </p>
@@ -15,13 +12,13 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **B.Tech in Information Technology** student at **AKTU** (SRIMT, Lucknow) | CGPA: 7.8/10.0
+- 🎓 Final-year **B.Tech in Information Technology** student at **AKTU** (SRIMT, Lucknow) 
 - 💻 Java Developer skilled in **Core Java, Spring Boot, and databases**; I build REST APIs and full-stack applications using microservices
 - 🧠 Practical experience in **Generative AI and Agentic AI**, including the Claude API
 - 🌱 Currently strengthening my **Data Structures & Algorithms** and system design fundamentals
 - 💼 Freelance Java backend & frontend developer on **Fiverr**
 - 🎯 Actively looking for **Java Full Stack Developer internship** opportunities with PPO potential
-- 📫 Reach me at **engg.chandraprakash01@gmail.com** | +91-9305764540
+- 📫 Reach me at **engg.chandraprakash01@gmail.com** 
 
 ---
 
@@ -105,17 +102,34 @@ Generative AI • Agentic AI • Prompt Engineering
 
 ---
 
-### 📚 Relevant Coursework
-
-Data Structures & Algorithms · OOP · Database Management Systems · Operating Systems · Computer Architecture · Computer Networks · Software Engineering
-
+### 🌍 Open Source Contributions
+ 
+- 🔧 Actively exploring open-source repositories in the **Java / Spring Boot** and **React** ecosystems to contribute bug fixes and feature enhancements
+- 📦 Maintain personal projects (Job Fare, AI Chatbot, TradeX) as open repositories for community feedback and collaboration
+- 🤝 Open to collaborating on **Agentic AI**, **Spring Boot microservices**, and **full-stack** open-source projects — feel free to raise an issue or PR!
+> ⭐ Check out my [GitHub](#) for repositories open to contributions
+ 
 ---
-
+ 
+### 🌱 Startup Ideas & Ventures
+ 
+#### 🚜 KhetRent / KhetLink — Agri-Tech Platform
+`MERN Stack` `Agri-Tech`
+- A platform connecting idle farmland owners with farmers looking to lease land, aimed at improving land utilization in India's farming sector
+- Built-in **"Fasal Doctor"** — a crop disease detection tool to help farmers identify and treat crop issues early
+- Designed full website, presentation deck, and MERN stack architecture for the concept
+#### 🎮 Level Up Learning — Gamified EdTech Platform
+`Spring Boot` `React` `AI Tutor`
+- A gamified, RPG-themed EdTech platform with XP systems, quests, badges, leaderboards, and a 1v1 battle arena
+- Features **Sage**, a Claude-powered AI tutor for personalized learning support
+- Built with team CodeBlooded and presented at **HackIndia SPARK-6, NIT Delhi**
+---
+ 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandraprakashy01&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandraprakashy01&theme=tokyonight" width="48%" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -124,10 +138,9 @@ Data Structures & Algorithms · OOP · Database Management Systems · Operating 
 
 <p align="left">
   <a href="mailto:engg.chandraprakash01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-  <a href="https://v0-chandraprakash-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chandra-prakash90"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Tech_Engg_CP01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://portfolio-chandraprakash.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>📍 Lucknow, Uttar Pradesh, India</i></p>
