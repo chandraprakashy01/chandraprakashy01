@@ -23,21 +23,21 @@
 </p>
 
 ---
-👋 Hi, I'm Chandra Prakash
-🚀 Full Stack Java Developer | Tech Explorer | Continuous Learner
-
-I'm a passionate Full Stack Java Developer who enjoys building scalable, secure, and user-friendly applications. I work with Java, Spring Boot, REST APIs, React, JavaScript, PostgreSQL, MongoDB, Docker, and Cloud technologies.
-
-I love exploring new technologies beyond my primary development stack. I'm especially interested in Cybersecurity, Artificial Intelligence, LLMs, IoT, Robotics, Cloud Computing, and emerging technologies.
-
-💡 What I'm Interested In
-☕ Java & Spring Boot — Backend development and REST APIs
-⚛️ Full Stack Development — React + Spring Boot applications
-🔐 Cybersecurity — Application security, authentication, and secure APIs
-🤖 AI & LLMs — Generative AI, LLM applications, AI APIs, and prompt engineering
-🌐 IoT — Smart devices, sensors, automation, and connected systems
-🦾 Robotics — Automation, intelligent systems, and hardware-software integration
-☁️ Cloud & DevOps — Docker, deployment, microservices, and scalable systems
+### 👋 Hi, I'm Chandra Prakash
+ 
+**🚀 Full Stack Java Developer | Tech Explorer | Continuous Learner**
+ 
+I'm a passionate Full Stack Java Developer who enjoys building scalable, secure, and user-friendly applications.
+ 
+#### 💡 What I'm Interested In
+ 
+- ☕ Java & Spring Boot
+- 🔐 Cybersecurity
+- 🤖 AI & LLMs
+- 🌐 IoT
+- 🦾 Robotics
+- ☁️ Cloud & DevOps
+- 🚀 Emerging Technologies
 
 ### 🛠️ Tech Stack
 
