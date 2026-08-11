@@ -13,7 +13,7 @@
  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprakashy01&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprakashy01&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF" alt="Activity graph" />
 </p>
 
 
@@ -78,21 +78,21 @@ Generative AI • Agentic AI • Prompt Engineering
 
 ### 🧩 Featured Projects
 
-#### 🎓 [Job Fare – Engineering College Placement Portal](#)
+#### 🎓 [Job Fare – Engineering College Placement Portal](https://github.com/chandraprakashy01/job-fare)
 `Spring Boot` `React` `MongoDB` `REST APIs`
 - Built a full-stack platform connecting 500+ students and 50+ recruiters
 - Implemented role-based JWT authentication with 25+ secure RESTful endpoints
 - Engineered a React dashboard with real-time monitoring, improving job approval efficiency by 50%
 - Optimized MongoDB performance with indexing
 
-#### 🤖 AI Chatbot with Backend Integration
+#### 🤖 [AI Chatbot with Backend Integration](https://github.com/chandraprakashy01/ai-chatbot)
 `Spring Boot` `MySQL` `Claude AI` `REST APIs`
 - Developed an intelligent chatbot using agentic AI and prompt engineering
 - Built a Spring Boot microservice architecture supporting multi-step workflows
 - Integrated Claude AI with conversation history management, achieving 95% user satisfaction
 - Designed an optimized MySQL schema with <50ms query response time
 
-#### 💹 TradeX – Cryptocurrency Trading Platform
+#### 💹 [TradeX – Cryptocurrency Trading Platform](https://github.com/chandraprakashy01/tradex)
 `Spring Boot` `React` `MySQL` `JWT` `Payment APIs`
 - Engineered a full-stack trading platform with enterprise-grade security (JWT, 2FA, OAuth 2.0, SSL/TLS)
 - Integrated CoinGecko API for real-time data, plus Razorpay and Stripe for payments
@@ -123,7 +123,7 @@ Generative AI • Agentic AI • Prompt Engineering
 - 🔧 Actively exploring open-source repositories in the **Java / Spring Boot** and **React** ecosystems to contribute bug fixes and feature enhancements
 - 📦 Maintain personal projects (Job Fare, AI Chatbot, TradeX) as open repositories for community feedback and collaboration
 - 🤝 Open to collaborating on **Agentic AI**, **Spring Boot microservices**, and **full-stack** open-source projects — feel free to raise an issue or PR!
-> ⭐ Check out my [GitHub](#) for repositories open to contributions
+> ⭐ Check out my [GitHub](https://github.com/chandraprakashy01) for repositories open to contributions
  
 ---
  
@@ -151,4 +151,3 @@ Generative AI • Agentic AI • Prompt Engineering
 </p>
 
 <p align="center"><i>📍 Lucknow, Uttar Pradesh, India</i></p>
-
