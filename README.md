@@ -127,22 +127,17 @@ Generative AI • Agentic AI • Prompt Engineering
 
 ### 📊 GitHub Stats
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandraprakashy01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandraprakashy01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="42%" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprakashy01&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="95%" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandraprakashy01&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandraprakashy01&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandraprakashy01&theme=tokyonight" width="48%" alt="GitHub Streak"/>
 </p>
 
