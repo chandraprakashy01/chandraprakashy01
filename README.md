@@ -9,6 +9,20 @@
 </p>
 
 ---
+### 📊 GitHub Stats
+ 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprakashy01&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="95%" />
+</p>
+
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandraprakashy01&theme=tokyonight" width="48%" alt="GitHub Streak"/>
+</p>
+
+---
 
 ### 🚀 About Me
 
@@ -122,25 +136,6 @@ Generative AI • Agentic AI • Prompt Engineering
 - A gamified, RPG-themed EdTech platform with XP systems, quests, badges, leaderboards, and a 1v1 battle arena
 - Features **Sage**, a Claude-powered AI tutor for personalized learning support
 - Built with team CodeBlooded and presented at **HackIndia SPARK-6, NIT Delhi**
----
-
-
-### 📊 GitHub Stats
- 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprakashy01&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF" alt="Activity Graph" width="95%" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandraprakashy01&theme=tokyonight" width="48%" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 🔗 Connect with Me
