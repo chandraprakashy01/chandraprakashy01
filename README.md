@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi , I'm Chandra Prakash</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot • React.js • REST APIs | Exploring Agentic AI</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot • React.js • REST APIs | Exploring Agentic AI </h3>
 
 <p align="center">
   <a href="https://portfolio-chandraprakash.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square"/></a>
@@ -23,18 +23,21 @@
 </p>
 
 ---
+👋 Hi, I'm Chandra Prakash
+🚀 Full Stack Java Developer | Tech Explorer | Continuous Learner
 
-### 🚀 About Me
+I'm a passionate Full Stack Java Developer who enjoys building scalable, secure, and user-friendly applications. I work with Java, Spring Boot, REST APIs, React, JavaScript, PostgreSQL, MongoDB, Docker, and Cloud technologies.
 
-- 🎓 Final-year **B.Tech in Information Technology** student at **AKTU** (SRIMT, Lucknow) 
-- 💻 Java Developer skilled in **Core Java, Spring Boot, and databases**; I build REST APIs and full-stack applications using microservices
-- 🧠 Practical experience in **Generative AI and Agentic AI**
-- 🌱 Currently strengthening my **Data Structures & Algorithms** and system design fundamentals
-- 💼 Freelance Java backend & frontend developer on **Fiverr**
-- 🎯 Actively looking for **Java Full Stack Developer internship** opportunities with PPO potential
-- 📫 Reach me at **engg.chandraprakash01@gmail.com** 
+I love exploring new technologies beyond my primary development stack. I'm especially interested in Cybersecurity, Artificial Intelligence, LLMs, IoT, Robotics, Cloud Computing, and emerging technologies.
 
----
+💡 What I'm Interested In
+☕ Java & Spring Boot — Backend development and REST APIs
+⚛️ Full Stack Development — React + Spring Boot applications
+🔐 Cybersecurity — Application security, authentication, and secure APIs
+🤖 AI & LLMs — Generative AI, LLM applications, AI APIs, and prompt engineering
+🌐 IoT — Smart devices, sensors, automation, and connected systems
+🦾 Robotics — Automation, intelligent systems, and hardware-software integration
+☁️ Cloud & DevOps — Docker, deployment, microservices, and scalable systems
 
 ### 🛠️ Tech Stack
 
