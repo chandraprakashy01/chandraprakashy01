@@ -77,8 +77,7 @@ Generative AI • Agentic AI • Prompt Engineering
 ---
 
 ### 🧩 Featured Projects
-
-#### 🎓 [Job Fare – Engineering College Placement Portal](https://github.com/chandraprakashy01/job-fare)
+#### 🎓 [Job Fare – Engineering College Placement Portal](https://github.com/chandraprakashy01/JobTra)
 `Spring Boot` `React` `MongoDB` `REST APIs`
 - Built a full-stack platform connecting 500+ students and 50+ recruiters
 - Implemented role-based JWT authentication with 25+ secure RESTful endpoints
