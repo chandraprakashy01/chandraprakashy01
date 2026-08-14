@@ -18,9 +18,13 @@
 </p>
 ---
 ### 👋 Hi, I'm Chandra Prakash 
+
 **🚀 Full Stack Java Developer | Tech Explorer | Continuous Learner**
+
 I'm a passionate Full Stack Java Developer who enjoys building scalable, secure, and user-friendly applications.
+
 #### 💡 What I'm Interested In 
+
 - ☕ Java & Spring Boot
 - 🔐 Cybersecurity
 - 🤖 AI & LLMs
