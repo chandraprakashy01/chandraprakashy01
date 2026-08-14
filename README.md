@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square"/>
   
 </p>
+
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
