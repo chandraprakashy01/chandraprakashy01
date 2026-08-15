@@ -5,7 +5,6 @@
   <a href="https://portfolio-chandraprakash.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square"/></a>
   <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square"/>
-  
 </p>
 
 ### 📊 GitHub Stats
