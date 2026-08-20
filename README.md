@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Chandra Prakash</h1>
+<h1 align="center">Hi , I'm Chandra Prakash </h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot • React.js • REST APIs | Exploring Agentic AI </h3>
 <p align="center">
   <a href="https://portfolio-chandraprakash.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square"/></a>
@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square"/>
 </p>
 
+
 ### 📊 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandraprakashy01&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF" alt="Activity graph" />
@@ -15,6 +17,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandraprakashy01&theme=tokyonight" width="48%" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ### 👋 Hi, I'm Chandra Prakash 
