@@ -109,18 +109,14 @@ I'm a passionate Full Stack Java Developer who enjoys building scalable, secure,
 - 🧮 100+ DSA problems solved on LeetCode — Top 15% problem-solving efficiency
 - 🏅 Hackathon Finalist (2 of 4+) — built "Level Up Learning" EdTech platform at GLY University
 - 🎤 Won 2+ Group Discussion awards | Organized 5+ technical workshops | Mentored 8+ students
-
 ---
-
 ### 🌍 Open Source Contributions
  
 - 🔧 Actively exploring open-source repositories in the **Java / Spring Boot** and **React** ecosystems to contribute bug fixes and feature enhancements
 - 📦 Maintain personal projects (Job Fare, AI Chatbot, TradeX) as open repositories for community feedback and collaboration
 - 🤝 Open to collaborating on **Agentic AI**, **Spring Boot microservices**, and **full-stack** open-source projects — feel free to raise an issue or PR!
 > ⭐ Check out my [GitHub](https://github.com/chandraprakashy01) for repositories open to contributions
- 
 ---
- 
 ### 🌱 Startup Ideas & Ventures
  
 #### 🚜 KhetRent / KhetLink — Agri-Tech Platform
